@@ -5,15 +5,17 @@ Prueba tecnica realizada por Edsson Cortes.
 
 Este es un proyecto de muestra que utiliza React 18, Redux Toolkit y axios para mostrar fotos de gatos y permitir la gestión de las mismas.
 
-Librerías requeridas
-Este proyecto requiere las siguientes librerías para ser instaladas:
+## Dependencias
+Este proyecto tiene las siguientes dependencias:
 
-React 18
-Redux Toolkit
-axios
-Para instalar estas librerías, ejecute el siguiente comando en la terminal:
-
-`npm install react@18.0.0 @reduxjs/toolkit axios`
+- `@reduxjs/toolkit:` Una biblioteca que facilita el uso de Redux para administrar el estado de la aplicación.
+- `@testing-library/jest-dom, @testing-library/react, @testing-library/user-event`: Bibliotecas de pruebas para probar componentes React.
+- `react, react-dom`: Bibliotecas principales de React.
+- `react-redux`: Una biblioteca que facilita la integración de Redux en una aplicación React.
+- `redux`: Una biblioteca para administrar el estado global de una aplicación.
+- `web-vital`s: Una biblioteca para medir las métricas de rendimiento clave de una página web.
+- `axios`: Una biblioteca para hacer solicitudes HTTP a una API.
+- `@fortawesome/fontawesome-svg-core, @fortawesome/free-regular-svg-icons, @fortawesome/free-solid-svg-icons, @fortawesome/react-fontawesome`: Bibliotecas de iconos.
 
 # Comandos
 Para ejecutar este proyecto, utilice los siguientes comandos:
