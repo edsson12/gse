@@ -18,18 +18,21 @@ Para instalar estas librerías, ejecute el siguiente comando en la terminal:
 # Comandos
 Para ejecutar este proyecto, utilice los siguientes comandos:
 
-npm start
+### `npm start`
+
 Ejecuta la aplicación en modo de desarrollo.<br />
 Abra http://localhost:3000 para verla en el navegador.
 
 La página se recargará automáticamente si realiza modificaciones en el código.<br />
 También verá errores de lint en la consola.
 
-npm test
+### `npm test`
+
 Inicia el corredor de pruebas en modo interactivo.<br />
 Consulte la sección sobre running tests para obtener más información.
 
-npm run build
+### `npm run build`
+
 Crea la aplicación para producción en la carpeta build.<br />
 Agrupa correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.
 
