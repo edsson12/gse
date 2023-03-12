@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Cat images app
 
 Prueba tecnica realizada por Edsson Cortes.
@@ -13,9 +13,9 @@ Redux Toolkit
 axios
 Para instalar estas librerías, ejecute el siguiente comando en la terminal:
 
-npm install react@18.0.0 @reduxjs/toolkit axios
+`npm install react@18.0.0 @reduxjs/toolkit axios`
 
-Comandos
+# Comandos
 Para ejecutar este proyecto, utilice los siguientes comandos:
 
 npm start
@@ -35,6 +35,4 @@ Agrupa correctamente React en modo de producción y optimiza la compilación par
 
 La compilación se minimiza y los nombres de archivo incluyen los hashes.<br />
 Su aplicación está lista para ser implementada!
-=======
-#GSE prueba técnica
->>>>>>> 23e5ed80ef1d778ef71b7da1503c1f710da14888
+
