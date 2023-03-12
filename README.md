@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cat images app
 
 Prueba tecnica realizada por Edsson Cortes.
@@ -34,3 +35,6 @@ Agrupa correctamente React en modo de producción y optimiza la compilación par
 
 La compilación se minimiza y los nombres de archivo incluyen los hashes.<br />
 Su aplicación está lista para ser implementada!
+=======
+#GSE prueba técnica
+>>>>>>> 23e5ed80ef1d778ef71b7da1503c1f710da14888
